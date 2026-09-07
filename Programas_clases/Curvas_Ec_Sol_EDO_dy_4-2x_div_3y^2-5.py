@@ -1,3 +1,8 @@
+# --------------------------------
+# Alumna: García Herrera Valeria
+# Fecha: 07 - septiembre - 2026
+# --------------------------------
+
 from sympy import symbols, Eq
 from sympy import plot_implicit
 import math

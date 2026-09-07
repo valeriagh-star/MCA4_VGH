@@ -1,5 +1,7 @@
 # --------------------------------
-# Alumna: García Herrera Valeria
+# Equipo: 
+# - García Herrera Valeria
+# - Grajeda Palacios Dulce Abril
 # Fecha: 07 - septiembre - 2026
 # --------------------------------
 
